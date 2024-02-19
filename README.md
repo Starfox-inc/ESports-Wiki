@@ -1,6 +1,6 @@
-![Auto Assign](https://github.com/Starfox inc./demo-repository/actions/workflows/auto-assign.yml/badge.svg)
+![Auto Assign](https://github.com/Starfox-inc./demo-repository/actions/workflows/auto-assign.yml/badge.svg)
 
-![Proof HTML](https://github.com/Starfox inc./demo-repository/actions/workflows/proof-html.yml/badge.svg)
+![Proof HTML](https://github.com/Starfox-inc./demo-repository/actions/workflows/proof-html.yml/badge.svg)
 
 # Welcome to StarFox inc. Gaming Wiki
   StarFox inc. is a dedicated team of Software Engineering students at California State
