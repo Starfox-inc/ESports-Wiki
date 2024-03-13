@@ -22,8 +22,12 @@ dependencies {
 	testImplementation("org.springframework.boot:spring-boot-starter-test")
 	testImplementation("org.springframework.security:spring-security-test")
 
-	//sql
-	runtimeOnly("org.xerial:sqlite-jdbc:3.43.0")
+	//sqlite
+	//runtimeOnly("org.xerial:sqlite-jdbc:3.43.0")
+
+	//mysql
+	implementation("mysql:mysql-connector-java")
+    implementation("org.springframework.boot:spring-boot-starter-data-jpa")
 }
 
 tasks.withType<Test> {
